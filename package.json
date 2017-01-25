@@ -1,0 +1,25 @@
+{
+  "name": "self-extinction",
+  "version": "1.0.0",
+  "description": "interactive documentary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabzl/SelfExtinction.git"
+  },
+  "keywords": [
+    "self-extinction"
+  ],
+  "author": "Fabian Andrade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fabzl/SelfExtinction/issues"
+  },
+  "homepage": "https://github.com/fabzl/SelfExtinction#readme",
+  "dependencies": {
+    "webpack": "^1.14.0"
+  }
+}
